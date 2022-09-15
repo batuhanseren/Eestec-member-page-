@@ -1,0 +1,80 @@
+
+
+.button {
+    background-color: #c6cbd3; 
+    color: #212429;
+    width: 10%;
+    border-radius: 7px;
+    transition-duration: 0.4s;
+    border: 2px solid #c6cbd3;
+    text-align: center;
+    cursor: pointer;    
+  }
+   .button:hover {background-color: #212429;
+    color: #c6cbd3; 
+    transform: translateY(4px);
+    }
+    .button1 {
+      background-color: #c6cbd3; 
+      color: #212429;
+      text-align: center;
+      text-decoration: none;
+      display: flex;
+      width: 10%;
+      font-size: 16px;
+      border-radius: 7px;
+      transition-duration: 0.4s;
+      border: 2px solid #c6cbd3;  
+    }
+     .button1:hover {background-color: #212429; 
+      color: #c6cbd3;
+      transform: translateY(4px);}
+
+      .button2 {
+        background-color: #c6cbd3; 
+        color: #212429;
+        text-align: center;
+        text-decoration: none;
+        display: flex;
+        width: 10%;
+        font-size: 16px;
+        border-radius: 7px;
+        transition-duration: 0.4s;
+        text-align: center;
+        border: 2px solid #c6cbd3;    
+      }
+      .button2:hover {background-color: #212429; 
+        color: #c6cbd3;
+        transform: translateY(4px);}
+      
+     
+        div.button {
+          width: 10%;
+          padding: 2.2%;
+          margin-left: 43%;
+          margin-top: 6%;
+         
+        }
+        div.button2 {
+          width: 10%;
+          padding: 2.2%;
+          margin-left: 43%;
+          margin-top: 6%;
+        }
+        div.button1 {
+          width: 10%;
+          padding: 2.2%;
+          margin-left: 43%;
+          margin-top: 6%;
+        }
+     
+      
+        
+      
+        
+        
+
+      
+
+        
+        
